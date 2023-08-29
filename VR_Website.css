@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 50px;
+    width: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+}
+
+#navItem2 {
+    color: #323f4b;
+}
+
+#navItem3 {
+    color: #323f4b;
+}
+
+#navItem4 {
+    color: #323f4b;
+}
+
+.banner-section-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-section-heading {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.custom-button {
+    background-color: #1a2137;
+    color: white;
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 6px;
+}
+
+.features-section {
+    background-color: white;
+    font-family: 'Roboto';
+}
+
+.features-section-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1f2933;
+}
+
+.features-section-card-img {
+    width: 60px;
+}
+
+.features-section-card-heading {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.features-section-card-description {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #7b8794;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.kit-section {
+    background-color: #f9fbfe;
+    font-family: 'Roboto';
+}
+
+.kit-section-heading {
+    font-size: 28px;
+    font-weight: 600;
+    color: #323f4b;
+}
+
+.kit-section-card-img {
+    height: 250px;
+    width: 150px;
+}
+
+.optics-and-controllers-section {
+    background-color: white;
+    font-family: 'Roboto';
+}
+
+.oacs-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1f2933;
+}
+
+.oacs-card-img {
+    width: 80%;
+}
+
+.oacs-card-heading {
+    color: #1a2137;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.oacs-card-description {
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.contact-us-section {
+    background-color: #222b36;
+}
+
+.contact-us-section-heading {
+    font-family: 'Roboto';
+    color: white;
+    font-weight: 700;
+}
+
+.custom-outline-button {
+    height: 40px;
+    font-size: 16px;
+    width: 130px;
+    background-color: transparent;
+    color: #ffffff;
+    font-family: 'Roboto';
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 8px;
+}
+
+.trending-blogs-section{
+    font-family: 'Roboto';
+}
+
+.trending-blogs-section-heading {
+    font-size: 30px;
+    font-weight: 700;
+    color: #1f2933;
+}
+
+.trending-blogs-card-container {
+    background-color: white;
+}
+
+.trending-blogs-card-heading {
+    color: #959ead;
+    font-size: 14px;
+}
+
+.trending-blogs-card-description {
+    font-size: 18px;
+    color: #323f4b;
+}
+
+.trending-blogs-card-link {
+    color: #1754a1;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.view-all-button {
+    background-color: #1754a1;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 35px;
+    width: 130px ;
+}
+
+.products-section-heading {
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 700;
+    color: #1f2933;
+}
+
+.product-1-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.product-name {
+    color: white;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.product-price {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.product-2-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.footer-section {
+    background-color:#202b36;
+    color: #5a7184;
+    font-family: 'Roboto';
+}
+
+.icon-container {
+   background-color: #19232d;
+   height: 50px;
+   width: 50px;
+   border-radius: 25px;
+   padding-top: 10px;
+   margin-right: 7px;
+   margin-top: 15px;
+}
+
+.footer-section-heading{
+   font-size: 18px;
+   font-weight: 700;
+}
+
+.footer-section-line {
+   background-color: #5a7184;
+}
+
+.footer-section-copyright {
+   color: #959ead;
+   font-size: 16px;
+   font-weight: 400;
+}
